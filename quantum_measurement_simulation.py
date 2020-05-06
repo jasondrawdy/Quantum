@@ -1,6 +1,6 @@
 #!/bin/bash/python
 """
-Program: Hello.py
+Program: quantum_measurement.py
 Author: Jason Drawdy
 Date: May 6th, 2020 (05.06.20)
 Description:
