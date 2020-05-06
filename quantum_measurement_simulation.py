@@ -1,6 +1,6 @@
 #!/bin/bash/python
 """
-Program: quantum_measurement.py
+Program: quantum_measurement_simulation.py
 Author: Jason Drawdy
 Date: May 6th, 2020 (05.06.20)
 Description:
